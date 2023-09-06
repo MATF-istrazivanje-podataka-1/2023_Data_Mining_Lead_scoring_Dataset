@@ -1,1 +1,7 @@
-2023_Data_Mining_Lead_scoring_Dataset
+# Projekat - Istraživanje podataka 1 - Matematički fakultet, Univerzitet u Beogradu
+
+- Autor: Đorđe Marić
+- Profesor: prof. dr. Nenad Mitić
+- Asistent: Marija Erić
+
+
